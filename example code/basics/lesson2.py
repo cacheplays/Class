@@ -13,4 +13,4 @@ number_int += 5
 print(number_int)
 
 input = input("what is you're favorite color\n")
-print("\"cool!", input, "is my farvorite color too!\"")
+print("\"cool!", input, "is my favorite color too!\"")
